@@ -93,7 +93,7 @@ Follow the procedure below
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/varun-saini-18/a-mazing.git
+   git clone https://github.com/kashikaadarsh/aMazingSite.git
    ```
 2. Install YARN packages
    ```sh
@@ -122,7 +122,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Varun Saini - [Linked in](https://www.linkedin.com/in/varun-sainii/)
+Kashika Adarsh - [Linked in](https://www.linkedin.com/in/kashikaadarsh/)
 
 
 
